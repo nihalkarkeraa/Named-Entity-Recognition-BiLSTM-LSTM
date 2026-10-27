@@ -95,11 +95,13 @@ The project provides practical experience in NLP, data preprocessing, sequence m
 
 ## Contributors
 
-- Nihal Karkera
-- Sanjay Moolya
-- Anurudh K
-- Shrusti Shiny
-- Vidyashree
+- [Nihal Karkera](https://github.com/nihalkarkeraa)
+- [Sanjay Moolya](https://github.com/Sanjaymoolya)
+- [Anurudh K](https://github.com/anurudhk499)
+- [Shrusti Shiny](https://github.com/vidyas17)
+- [Vidyashree](https://github.com/vidyas17)
+
+
 
 ## Institution
 
